@@ -1,0 +1,15 @@
+<svg viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main text - now in light color for dark backgrounds -->
+  <text x="100" y="48" 
+        font-family="Arial, sans-serif" 
+        font-size="42" 
+        font-weight="800" 
+        text-anchor="middle" 
+        fill="#F8FAFC"
+        letter-spacing="0">
+    trimr
+  </text>
+  
+  <!-- Small accent dot - keeping the same blue for brand consistency -->
+  <circle cx="60" cy="45" r="4" fill="#2563EB"/>
+</svg>
