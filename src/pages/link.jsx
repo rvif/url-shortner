@@ -76,11 +76,11 @@ const LinkPage = () => {
             {url?.title}
           </span>
           <a
-            href={`https://https://trimr-alpha.vercel.app/${link}`}
+            href={`https://trimr-alpha.vercel.app/${link}`}
             target="_blank"
             className="text-3xl sm:text-4xl text-blue-400 font-bold hover:underline cursor-pointer"
           >
-            https://https://trimr-alpha.vercel.app/{link}
+            https://trimr-alpha.vercel.app/{link}
           </a>
           <a
             href={url?.original_url}
@@ -98,7 +98,7 @@ const LinkPage = () => {
               variant="ghost"
               onClick={() =>
                 navigator.clipboard.writeText(
-                  `https://https://trimr-alpha.vercel.app/${link}`
+                  `https://trimr-alpha.vercel.app/${link}`
                 )
               }
             >
